@@ -199,3 +199,8 @@ a {
 .links {
     display: inline-block;
 }
+
+.tweets:hover {
+    position: relative;
+    top: 10px;  
+}
